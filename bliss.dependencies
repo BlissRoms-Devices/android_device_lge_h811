@@ -6,9 +6,15 @@
     "revision": "cm-13.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_kernel_lge_msm8992",
+    "remote": "github",
+    "repository": "genesixx/LlamaSweet-msm8992",
     "target_path": "kernel/lge/msm8992",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
     "revision": "cm-13.0"
   },
   {
@@ -31,8 +37,8 @@
   },
   {
     "remote": "github",
-    "repository": "BlissRoms-Devices/proprietary_vendor_lge",
+    "repository": "TheMuppets/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "revision": "cm-13.0"
   }
-] 
+]
